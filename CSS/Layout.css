@@ -20,6 +20,7 @@ body
 	
 	/*positioning*/
 	margin: 18.9px;
+	position: fixed;
 }
 
 .Header #HeaderBox
