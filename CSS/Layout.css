@@ -4,7 +4,7 @@ body
 }
 
 
-
+/*Global*/
 .Header 
 {
 	
@@ -50,7 +50,7 @@ body
 }
 
 
-
+/*Index Page*/
 .Navigater
 {
 	
@@ -85,9 +85,8 @@ body
 
 .Navigater #LElement a
 {
-	color:black;
+	color: black;
 }
-
 
 
 .NewsBox
@@ -117,6 +116,7 @@ body
 {
 	/*Layout*/
 	background-color: black;
+	padding-top:18.9px;
 }
 
 .NewsBox #Content p 
@@ -139,7 +139,66 @@ body
 	margin-bottom:75.5px;
 }
 
+.NewsBox #NewPost
+{
+	/*Layout*/
+	border: 1px solid white;
+	margin-top: 18.9px;
+	margin-bottom: 18.9px;
+	
+	/*positioning*/
+}
 
+.NewsBox #NewText
+{
+	/*Layout*/
+	border: 1px solid white;
+	
+	
+	/*positioning*/
+	margin: 18.9px;
+}
+
+.NewsBox #NewText a
+{
+	color: white;
+}
+
+/*About Us Page*/
+.NewsBox #Info p
+{
+	/*Layout*/
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	font-size: 18px;
+	font-weight: italic;
+	
+	/*positioning*/
+	margin-top: 0px;
+	margin-bottom: 18.9px;
+}
+
+.Employes
+{
+	border:1px solid black;
+}
+
+.Employes th
+{
+	/*Layout*/
+	border:2px solid black;
+	width: 100%;
+	
+}
+
+.Employes td
+{
+	/*Layout*/
+	border:2px solid black;
+	padding:18.9px;
+}
+
+/*Global*/
 .Credit #Autor
 {
 	/*Layout*/
@@ -147,4 +206,5 @@ body
 	font-size:12px;
 	
 	/*positioning*/
+	position:absolute;
 }
