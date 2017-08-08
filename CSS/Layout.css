@@ -159,6 +159,12 @@ body
 	margin: 18.9px;
 }
 
+.NewsBox #NewText p
+{
+	/*Layout*/
+	font-size:18px;
+}
+
 .NewsBox #NewText a
 {
 	color: white;
