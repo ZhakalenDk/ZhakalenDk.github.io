@@ -56,7 +56,6 @@ body
 }
 
 
-/*Index Page*/
 .Navigater
 {
 	
@@ -233,6 +232,8 @@ body
 /*Contact Us*/
 
 
+/*Media*/
+
 
 /*Global*/
 .Credit #Autor
@@ -244,4 +245,9 @@ body
 	
 	/*positioning*/
 	position:absolute;
+}
+
+#Counter
+{
+	color: white;
 }
