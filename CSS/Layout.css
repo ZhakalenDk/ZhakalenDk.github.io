@@ -237,7 +237,10 @@ body
 
 
 /*Media*/
-
+.Popup
+{
+	
+}
 
 /*Global*/
 .Credit #Autor
@@ -249,9 +252,4 @@ body
 	
 	/*positioning*/
 	position:absolute;
-}
-
-#Counter
-{
-	color: white;
 }
